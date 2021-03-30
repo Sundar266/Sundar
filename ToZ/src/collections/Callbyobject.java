@@ -13,7 +13,7 @@ public class Callbyobject {
 	
 	public void add() {
 		int c= a+b;
-		System.out.println("The addition value is:\t" +c);
+		System.out.println("The addition value  of C is:\t" +c);
 	}
 
 }
