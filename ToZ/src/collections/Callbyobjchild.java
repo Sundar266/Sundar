@@ -20,8 +20,8 @@ public class Callbyobjchild {
 			
 						
 		/*ArrayList<Callbyobject> arr = new ArrayList<Callbyobject>();
-		arr.add(x);
-		arr.add(y);
+		arr.add(x1);
+		arr.add(x2);
 		
 		Iterator<Callbyobject> itr = arr.iterator();
 		while(itr.hasNext()) {
